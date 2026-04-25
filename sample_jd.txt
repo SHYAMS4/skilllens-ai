@@ -1,0 +1,22 @@
+Senior QA Engineer — BFSI & Capital Markets
+
+We are seeking a Senior QA Engineer to join our exchange technology team.
+
+Required Skills:
+- 4+ years of manual and functional testing experience
+- Strong BFSI / Capital Markets domain knowledge
+- Experience testing Clearing & Settlement systems
+- Test management tools: JIRA, HP ALM
+- Database testing with SQL (Oracle/MySQL)
+- API testing using Postman
+- Knowledge of Agile/Scrum methodology
+- Selenium automation framework (preferred)
+- Understanding of regulatory compliance (SEBI, RBI)
+- Excellent communication and stakeholder management
+
+Responsibilities:
+- Design and execute test cases for trading and post-trade systems
+- Coordinate with business analysts and development teams
+- Manage defects and ensure release quality
+- Perform regression and UAT testing
+- Support production releases and mock testing

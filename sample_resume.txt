@@ -1,0 +1,27 @@
+SHYAM KUMAR SIRINGI
+QA Analyst | BFSI & Capital Markets | TCS
+Email: shyam110720@gmail.com | Andhra Pradesh
+
+EXPERIENCE
+QA Analyst / Business Analyst — TCS (2021–Present)
+Client: MCX – Multi Commodity Exchange of India (4 years)
+- Manual and functional testing of Collateral Management (CMS), Clearing & Settlement (CNS), Delivery Management (DMS)
+- 300+ test cases designed and executed across capital markets modules
+- 15+ production releases with zero critical post-release defects
+- Daily coordination with MCX business team and offshore QA
+- Defect management using JIRA and HP ALM
+- API testing with Postman for exchange services
+- SQL queries for Oracle database validation
+- SEBI regulatory compliance testing
+- Agile/Scrum sprint coordination
+
+SKILLS
+Manual Testing, Functional Testing, Regression Testing
+JIRA, HP ALM, Postman, SQL (Oracle, MySQL)
+BFSI, Capital Markets, MCX, Derivatives, F&O
+Clearing & Settlement, Collateral Management
+Agile/Scrum, Stakeholder Management
+Basic Selenium, Linux/Unix
+
+EDUCATION
+B.Tech – Mechanical Engineering | Godavari Global University | 75%
