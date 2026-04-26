@@ -3,7 +3,7 @@
 > **Catalyst Hackathon Submission · deccan.ai · April 2026**
 
 ## 🚀 Live Demo
-🔗 **[Try it live on Streamlit Cloud](your-streamlit-url-here)**
+🔗 🔗 **[Try it live on Streamlit Cloud](https://skilllens-ai-zfpbwb3rxxxt2fe5wn5jeq.streamlit.app/)**
 
 ---
 
